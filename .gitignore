@@ -1,0 +1,10 @@
+SchsPolicySearch.frontEnd\node_modules
+/SchsPolicySearch/bin/Debug/net6.0
+/SchsPolicySearch/obj
+/SchsPolicySearch.Common/bin/Debug/net6.0
+/SchsPolicySearch.Common/obj
+/SchsPolicySearch.Domain/bin/Debug/net6.0
+/SchsPolicySearch.Domain/obj
+/schspolicysearch.frontend/node_modules
+/SchsPolicySearch.InMemoryData/bin/Debug/net6.0
+/SchsPolicySearch.InMemoryData/obj

@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "5bcd5d80-ed79-4a56-adfd-6b999cf36436": {
+      "ProjectGuid": "5bcd5d80-ed79-4a56-adfd-6b999cf36436",
+      "DisplayName": "SchsPolicySearch.Web",
+      "ColorIndex": 0
+    },
+    "3700ece1-5624-4377-b376-c9f795e37d85": {
+      "ProjectGuid": "3700ece1-5624-4377-b376-c9f795e37d85",
+      "DisplayName": "SchsPolicySearch.Domain",
+      "ColorIndex": 1
+    },
+    "5f37dcae-201f-45c9-95ba-70d692c989ce": {
+      "ProjectGuid": "5f37dcae-201f-45c9-95ba-70d692c989ce",
+      "DisplayName": "SchsPolicySearch.CosmosData",
+      "ColorIndex": 2
+    },
+    "95df041a-6ff5-4d6b-af86-29fa48c28c80": {
+      "ProjectGuid": "95df041a-6ff5-4d6b-af86-29fa48c28c80",
+      "DisplayName": "SchsPolicySearch.InMemoryData",
+      "ColorIndex": 3
+    },
+    "917a3e93-2058-4884-9f5d-186a4c724294": {
+      "ProjectGuid": "917a3e93-2058-4884-9f5d-186a4c724294",
+      "DisplayName": "SchsPolicySearch.Common",
+      "ColorIndex": 4
+    },
+    "8f74f020-765d-420d-8d96-cc079228759b": {
+      "ProjectGuid": "8f74f020-765d-420d-8d96-cc079228759b",
+      "DisplayName": "SchsPolicySearch.FrontEnd",
+      "ColorIndex": 5
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 6
+}
